@@ -1,8 +1,11 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=abhishek2f24.abhishek2f24)
 [![Github](https://img.shields.io/github/followers/abhishek2f24?label=Follow&style=social)](https://github.com/abhishek2f24)
-### Hi there 👋
+### <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />&nbsp;Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=<Coders>;I+am+<Abhishek>)](https://git.io/typing-svg)
 
 A Data Scientist passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 MLOps, :new: Innovation and Automation :robot: 
+<p align='center'>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><p>
 
 - 🔭 I’m currently working on **Big Data, Cloud, Machine Learning and Data Science**
 - 🌱 I’m currently learning big data tools such as Hadoop,HBase,Spark and Cloud like AWS,Azure,GCP
@@ -48,7 +51,7 @@ A Data Scientist passionate about Data Science :bar_chart:. I like automating th
 <br />
 
 
-## :trophy: My Github Stats:
+## :trophy: My Github Stats:<img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
 
 <!--
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=abhishek2f24&count_private=true&show_icons=true&theme=tokyonight)
