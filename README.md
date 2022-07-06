@@ -1,6 +1,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=abhishek2f24.abhishek2f24)
 [![Github](https://img.shields.io/github/followers/abhishek2f24?label=Follow&style=social)](https://github.com/abhishek2f24)
-<a href="https://twitter.com/abhishek2f24" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek2f24?logo=twitter&style=plastic" alt="amanapm2676" /></a>
+<a href="https://twitter.com/abhishek2f24" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek2f24?logo=twitter&style=plastic" alt="abhishek2f24" /></a>
 ### <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />&nbsp;Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=<Coders>;I+am+<Abhishek>)](https://git.io/typing-svg)
 
