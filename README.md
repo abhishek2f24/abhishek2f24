@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abhishek&fontSize=70&fontColor=00d4ff&fontAlignY=38&desc=Data%20Engineer%20%7C%20AI%2FML%20Practitioner&descSize=20&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%40+TCS;Azure+%7C+Databricks+%7C+PySpark;ML+Engineer+%7C+MLOps+Practitioner;Building+Scalable+Data+Pipelines;Open+Source+%26+Cloud+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%40+GHD;Azure+%7C+Databricks+%7C+PySpark;ML+Engineer+%7C+MLOps+Practitioner;Building+Scalable+Data+Pipelines;Open+Source+%26+Cloud+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,7 +23,7 @@ class DataEngineer:
     def __init__(self):
         self.name        = "Abhishek"
         self.role        = "Data Engineer & AI/ML Practitioner"
-        self.company     = "Tata Consultancy Services (TCS)"
+        self.company     = "GHD"
         self.location    = "Mumbai, India 🇮🇳"
         self.email       = "abhishek2f24@gmail.com"
 
